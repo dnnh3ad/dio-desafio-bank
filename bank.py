@@ -157,4 +157,5 @@ def main():
             print("Operação inválida, por favor selecione novamente a operação desejada.")
 
 
-main()
+if __name__ == "__main__":
+    main()
